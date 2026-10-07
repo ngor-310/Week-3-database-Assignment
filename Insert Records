@@ -1,5 +1,0 @@
-INSERT INTO student (id, fullName, age) 
-VALUES 
-    (1, 'Alice Nanjala', 19),
-    (2, 'Majok Daniel', 18),
-    (3, 'Grace Akiru', 21);
